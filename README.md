@@ -7,7 +7,8 @@ Licensed under LGPL3 or Apache 2 licenses
 
 My Part of Speech Tagger written in Java
 
-=ACKNOWLEDGMENTS:
+ACKNOWLEDGMENTS:
+----------------
 
 - Eric Brill for his lexicon and trained rule set:   http://www.cs.jhu.edu/~brill/
 
@@ -16,9 +17,11 @@ My Part of Speech Tagger written in Java
 - Brant Chee for bug reports and bug fixes
 
 
-=TAG DEFINITIONS:
+TAG DEFINITIONS:
+----------------
 
-`
+<pre>
+	
 CC Coord Conjuncn           and,but,or
 NN Noun, sing. or mass      dog
 CD Cardinal number          one,two
@@ -126,4 +129,5 @@ VVGN nominal gerund
 . end-of-sentence period
 : dashes, colons
  ? ? right quo
-`
+
+</pre>
