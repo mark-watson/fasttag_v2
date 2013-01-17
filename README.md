@@ -5,7 +5,10 @@ Mark Watson  http://markwatson.com
 
 Licensed under LGPL3 or Apache 2 licenses
 
-My Part of Speech Tagger written in Java
+My Part of Speech Tagger written in Java.
+
+The code is set up to read the file lexicon.txt. If you also want to handle additional medical terms, use the
+file medical_plus_regular_lexicon.txt instead.
 
 ACKNOWLEDGMENTS:
 ----------------
